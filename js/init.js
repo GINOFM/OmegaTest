@@ -15,3 +15,5 @@ document.addEventListener('DOMContentLoaded', function() {
 $(document).ready(function(){
   $('.materialboxed').materialbox();
 });
+
+AOS.init({once:true,delay: 100});
