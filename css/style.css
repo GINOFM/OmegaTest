@@ -1,0 +1,63 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+@font-face {
+  font-family: sundayFont;
+  src: url(../fonts/SUNDAY.ttf);
+}
+@font-face {
+  font-family: adega;
+  src: url(../fonts/ADegaSerifRegular.otf);
+}
+@font-face {
+  font-family: adega;
+  src: url(../fonts/ADegaSerifBold.otf);
+  font-weight: bold;
+}
+
+nav ul li a{
+  font-family: sundayFont;
+  font-size:24px;
+}
+a.Sbreadcumb{
+  color:#a9a9a9;
+  font-family: sundayFont;
+  font-size:20px;
+}
+a.sunday{
+  font-size:20px;
+}
+span.sSPan{
+  color:#ffc13b;
+  font-family: sundayFont;
+  font-size:30px;
+}
+
+.amarillo{
+  background-color:#ffc13b;
+}
+.sunday{
+  font-family: sundayFont;
+}
+.Precio{
+  font-family: adega;
+  font-size:30px;
+  font-weight: bold;
+}
+.MiniDescription{
+  font-family: adega;
+  font-size:20px;
+  font-weight: bold;
+}
