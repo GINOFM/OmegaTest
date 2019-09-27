@@ -69,3 +69,8 @@ span.sSPan{
 header .row{
   margin-bottom: 0px;
 }
+
+nav .brand-logo{
+  margin-bottom: 80px;
+  height: auto;
+}
