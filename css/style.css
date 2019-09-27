@@ -61,3 +61,11 @@ span.sSPan{
   font-size:20px;
   font-weight: bold;
 }
+
+.bannerSuperior{
+  padding-bottom: 15px;
+  padding-top: 10px;
+}
+header .row{
+  margin-bottom: 0px;
+}
